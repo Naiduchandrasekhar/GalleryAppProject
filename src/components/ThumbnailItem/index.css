@@ -1,0 +1,19 @@
+/* Write your code here. */
+
+.thumbnailItem {
+  margin: 4px;
+  height: 40px;
+  list-style-type: none;
+}
+
+.thumbnailImg {
+  height: 40px;
+}
+
+.active {
+  opacity: 0.5;
+}
+
+.button {
+  border-width: 0px;
+}
